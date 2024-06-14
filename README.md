@@ -20,7 +20,7 @@
 
 <img width="1846" alt="image" src="https://github.com/CagatayAkkas/Base64-URL-Upwork/assets/108520279/0d829a18-af33-4ff8-9328-725896161aaf">
 
-7)For decoding type the id you want to see at "retrieveAndDecodeUrl" function
+7)For decoding, type the id you want to see at "retrieveAndDecodeUrl" function
 
 <img width="1848" alt="image" src="https://github.com/CagatayAkkas/Base64-URL-Upwork/assets/108520279/e7020155-d290-4c63-b227-2a36821424cf">
 
